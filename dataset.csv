@@ -1,0 +1,1115 @@
+Post,Score1,Score2,AverageScore,Equal,PositiveScore,,,
+**** wins this thread over the pompous jerk who told her she doesn't get it.,-2,-1,-1.5,FALSE,TRUE,,,
+... WTF IS THAAAAA ISSSSSSSSUE,-2,-1,-1.5,FALSE,TRUE,,Num of agreements:,195
+........go away,-1,-2,-1.5,FALSE,TRUE,,Num of same degree:,244
+"<p>""This code sucks.""</p>
+",-1,-1,-1,TRUE,TRUE,,,
+"<p><a href=""http://blogoscoped.com/archive/2008-01-24-n20.html"" rel=""noreferrer"">MapReduce Explained</a>.</p>
+
+<p>It explains better than what I can. Does it help?</p>
+",1,1,1,TRUE,TRUE,,,
+"<p><a href=""http://murmurhash.googlepages.com/"" rel=""noreferrer"">Murmur Hash</a> is pretty nice.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p><code>decimal</code></p>
+
+<p>You won't lose precision due to rounding.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p><code>WM_SHOWWINDOW = 24</code></p>
+
+<p>...not that it really helps.
+It looks like the last bit of your code to be executed is <strong>line 81</strong>, I'd study that.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>A generic enough answer:</p>
+
+<p>Most languages, on EOF, return that no data were read. You can re-try reading after an interval, and if the file has grown since, this time the operating system will return data.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>A simple answer, if you've identified that the error doesn't effect your code negatively is.</p>
+<p>On error resume next.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Actually, I ended up solving this problem by upgrading to express 4 from express 3. Now it works fine. :)</p>
+",0,2,1,FALSE,FALSE,,,
+"<p>Add this in your css file:</p>
+
+<pre><code>.owl-item {
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translateZ(0) scale(1.0, 1.0);
+}
+</code></pre>
+",0,0,0,TRUE,TRUE,,,
+"<p>All of this closure will cost you.  Make sure you test the speed implications especially in IE. You will find you are better off with a naming convention. There are still a lot of corporate web users out there that are forced to use IE6...</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Also, writing a simple http proxy for this purpose in C# is a trivial task.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Any regular expression. :)</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Assuming you want a regex like this?</p>
+
+<pre><code>&lt;([^=&lt;&gt;]+)=\\?""([^\\""]+)
+</code></pre>
+
+<p>Otherwise, please be less ambiguous about what you are actually trying to parse out. Thanks!</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>AVOID. Really. Seems like you handle some important logic right in the event handler.</p>
+
+<p>Move the logic out of the handler.</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>Because in bash, 0 is true and everything other than 0 is false.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Because it introduces a constraint on the possible values.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Best practice is to POST to a URL, process the info there and then redirect to a new URL, for example with a header(""Location: "") call. This way you also prevent a user from refreshing the page to resubmit your form.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Bro, we can't guess what you has typed in your code, please link it to us.
+But if you have some issues with basic method of module, i think some  thing gone wrong with import</p>
+",-1,-1,-1,TRUE,TRUE,,,
+"<p>Can u explain the bigger picture? What are u trying to create?  ""unbelievably thorough tutorial for dummies out there?"" - for what?  i.e - ""C for Dummies"" , ""Painting for Dummies""?</p>
+",-1,-1,-1,TRUE,TRUE,,,
+"<p>Can you add the source code? It would be helpful.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Can't you just change the calling program to log the parameters it used to call the process, and the exit code?
+This would be way easier than trying to dig into whoami.exe</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>check this this will give you an idea how to do this
+check this..<a href=""http://www.tutorialspoint.com/java/lang/string_contains.htm"" rel=""nofollow"">http://www.tutorialspoint.com/java/lang/string_contains.htm</a></p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Clean your solution and rebuild worked for me (in Visual Studio, these are options you get when you right click in your solution explorer), the error is gone in my project.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Component One is pretty decent - a bit pricey, but decent.  We are using it for our current project developing an application for a state health department, and are happy with it so far.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Consider using another language because there is no way to do this in Javascript.</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>Constants are used for values that are not intended to change in the first place. Don't assign them until you know what the value is going to be.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Convert spinner as dialog with a list and implement a search with an adapter inside it</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Copy the table to a new one, then delete the column you don't want. Simple. </p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Could it be possible, you are trying to access a websocket? Maybe you can try to simulate with Postman to get more information?</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Could you please share your full code that you used in inline editor?</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Could you use the before_save callback instead?</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Default is not mandatory but always good to have it. The code is ideally but our life is not, no harm to put a protection there. It will also help you debugging if any unexpected thing happens.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>delete .gradle, .idea and gradle folder from the project and then invalidate cache and restart.
+problem will be resolved.
+Thanks :)</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>Did you remember to include the assembly as well? E.g. like this:</p>
+
+<pre><code>// system.web / compilation / assemblies
+&lt;add assembly=""Microsoft.Web.Mvc""/&gt;
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Did you try this on container.jade ?</p>
+
+<pre><code>div
+    if block
+        block
+    else
+        include default.jade
+</code></pre>
+",0,0,0,TRUE,TRUE,,,
+"<p>Did You Try to add this:</p>
+<pre><code>actNw.hasTransport(NetworkCapabilities.TRANSPORT_VPN) -&gt; true
+</code></pre>
+",1,1,1,TRUE,TRUE,,,
+"<p>Do you keep the quantity of the item in the database? If you are happy, you can reach the result you want after a small query, but you need to tell us the details of the structure you have prepared.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Do you really have to stick to the pdfplumber?.
+If not, I can suggest a better solution, use tabula instead.
+Here is an answer to a similar question you can check out: <a href=""https://stackoverflow.com/a/53050405/2081218"">tabula</a></p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Do you really need an if statement?</p>
+
+<pre><code>n = (int?) reader[0];
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Don't add types or functions to the global namespace.</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>Don't worry about it, I will just go with a simple color instead of a gradient. Can't be asked to waste my time with it.</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>Drag&amp;Drop is not SO hard, really :) </p>
+
+<p>Try reading this <a href=""http://www.beacosta.com/blog/?p=53"" rel=""nofollow noreferrer"">post</a> about Drag&amp;Drop. </p>
+",0,2,1,FALSE,FALSE,,,
+"<p>Easy: Make your program fullscreen.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>EOF is NOT a character, so there's no way to write an EOF. 
+You've forgotten to close a quoted string.</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>For example, with an http call to a web api you could use <strong>Promise</strong>, because you only need to do it once. Instead, you could use <strong>Observable</strong> to receive a notification every time a specific value changes.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Found it. getcwd().</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Good code is easy to understand, easy to maintain, and easy to add to. Ideally, it is also as efficient as possible without sacrificing other indicators.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Have a look at <a href=""https://stackoverflow.com/questions/122533/how-can-i-downgrade-the-format-of-a-subversion-repositiory"">these answers</a> to a similar problem.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Have you considered using the BLOB type?</p>
+
+<p>Also, out of curiosity, if you don't control the size of the string, and neither does the user, who does?</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Have you tried setting the text's position to absolute?</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Hello your controller is ok.</p>
+<p>To display your message in blade you need to do that :</p>
+<pre><code>@if(Session::has('status'))
+{{ (Session::get('status')) }}
+@endif
+</code></pre>
+",1,1,1,TRUE,TRUE,,,
+"<p>Here is more info about it. :) You're welcome.</p>
+<p><a href=""https://css-tricks.com/position-sticky-and-table-headers/"" rel=""nofollow noreferrer"">https://css-tricks.com/position-sticky-and-table-headers/</a></p>
+",2,2,2,TRUE,TRUE,,,
+"<p>Here's some helpful info to get you started. <a href=""http://www.python.org/download/mac/"" rel=""nofollow noreferrer"">http://www.python.org/download/mac/</a></p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Hey Mitch you are really close, try adding a ; after the first and second line. or add a space in the split command</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Hi Tareq please describe your error and kindly give a clear picture of the error that you are getting.</p>
+",1,-1,0,FALSE,FALSE,,,
+"<p>Hmm, works good for me. Maybe its the browser or the code before? Did you wrap it with other flex or layout attributs?</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>How about the fact that it supports a standardized query language, XPath?  That's pretty useful for me.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>How can I detect the first launch of my application and run a View Controller just onc e(for example: ""Create your user profile and save it"")  ?
+I am using Xcode 5.1/
+I would appreciate any help or guidance.
+Thanks,
+Tudor</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>How do you include this? There are two ways. If you you use #include ""something.h"" the file has to be at the same location where youre .cpp is. If you use #include  than the header has to be at a directory in visaul studio.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>How to begin with number one for Recordes that will add every new day in Mysql Database .
+I need code or method for that.
+Thanks </p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>I am author of <code>SpannableGrid</code> package. Thank you for using it, and for the feedback provided.</p>
+<p>There was a bug in the package. I've added a fix for this. Please check if the version 0.1.4+ will work for you.</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>I am new to python, and would like to know how I can create a camera from current view in maya with a simple python script. </p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I am not sure about your goal here. You dont need to extend the Button for storing two values. You can always set the Datacontext of the Button with custom data object which contains this two values.  Can you explain more on your problem. </p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I am not sure I understood your question, but would something like this help?
+<a href=""https://regex101.com/r/V9TGoc/1"" rel=""nofollow noreferrer"">This regular expression</a></p>
+",1,1,1,TRUE,TRUE,,,
+"<p>I am not sure I understood your question, but would something like this help?
+<a href=""https://regex101.com/r/V9TGoc/1"" rel=""nofollow noreferrer"">This regular expression</a></p>
+",1,0,0.5,FALSE,FALSE,,,
+"<p>I attempted to look at your code and I am getting a 404 page. If you update your link I am sure you'll have more success getting help.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I believe that by marking the email body as text/plain would avoid javascript and/or html attacks (but I wouldn't trust outlook on following what the headers suggest).</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I believe that you want _.map.</p>
+
+<p>It will return an object with the specified keys if you pass an array of strings as the second argument.</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>I believe the SQL (for MySQL) would be: </p>
+
+<pre><code>SELECT * 
+FROM   entries 
+WHERE  entry_id &gt;= @last_viewed_entry_id 
+ORDER BY entry_id 
+LIMIT 50
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I believe you need to have a prefix for @keyframes for the different layout engines, in example:</p>
+
+<p>@-webkit-keyframes {}
+@-moz-keyframes </p>
+
+<p>etc, IE10 works because it supports the official spec</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I can not believe. There is a very hidden option where I can not turn off the wifi when the phone is locked. Problem solved</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I don't exactly know if it's what you mean but you can try to look for the next:
+<a href=""https://stackoverflow.com/questions/36514426/android-getfiledir-vs-getdir"">Android getFileDir vs getDir</a></p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I don't know the name, but the shortcuts are CTRL-period (.) and ALT-SHIFT-F10.  Handy to know :)</p>
+",1,2,1.5,FALSE,TRUE,,,
+"<p>I don't think that it would be a problem, just use them as image and you are done...</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I fixed this issue with this code... `</p>
+<hr />
+<p>{<br />
+<code>test: cssRegex, exclude: cssModuleRegex, use: getStyleLoaders({ importLoaders: 1, sourceMap: isEnvProduction &amp;&amp; shouldUseSourceMap, modules: true,</code><br />
+}</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I found another solution.
+If you will wrap recyclerview in RelativeLayout, it will solve the problem easily.
+Thanks.</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>I found that one of my php didn't send the JSON string correctly!! It's working now in both ways - eval and json2.js Many thanks for your kind help! :)</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>I found that one of my php didn't send the JSON string correctly!! It's working now in both ways - eval and json2.js Many thanks for your kind help! :)</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>I got it working. I copied all DLLs from C:\PosgreSql 9.3\bin to my application and it is working.</p>
+
+<p>Thank You Guys!!!!</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>I got this to work by installing pywin32.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I guess the best two (and by far the most common) are either GD or ImageMagick. I've had a lot of joy with the second.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I guess You are doing great, just change your code like:-
+<code>&lt;option value=""&lt;%out.print(Field); %&gt;""&gt;&lt;/option&gt;</code>
+Hope this works</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>I have found <a href=""http://www.chipx86.com/blog/?p=261"" rel=""nofollow noreferrer"">djblets.siteconfig</a> very useful. Works great with the Admin app, and very easy to use. Highly recommended.</p>
+",-1,1,0,FALSE,FALSE,,,
+"<p>I have solved it ..at first i was using the wrong port number for mysql ,i checked the right one one from the xampp wizard window..
+secondly, i had a wrong table name</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I have some text in a String Builder Object in my ASP.NET page, I want to save it into a field in an SQL Server database. I am taking varBinary(max) for that, but not able to save it.</p>
+
+<p>Please tell me which is the best way to do so?</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>I have some text in a String Builder Object in my ASP.NET page, I want to save it into a field in an SQL Server database. I am taking varBinary(max) for that, but not able to save it.</p>
+
+<p>Please tell me which is the best way to do so?</p>
+",-1,0,-0.5,FALSE,FALSE,,,
+"<p>I hope somebody will find my answer helpful
+double is 200.00
+and int is 200 not 
+so double check if you're converting and using the the correct type. Thanks</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>I like the integrated HTML/XML Tidy.  Cmd-shift-H is your friend.</p>
+
+<p>Also, nice integration with a variety of scp/sftp clients.</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>I personnaly use <a href=""http://msdn.microsoft.com/en-us/library/c6zyy3s9.aspx"" rel=""nofollow noreferrer"">the resources files</a>.</p>
+
+<p>Very efficient, very simple.</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>i resolved my issue for the moment, i commented out the security-constraint in mdm-android-agent/WEB-INF/web.xml so no more redirects and data is correctly saved.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I suggest changing the answer to: </p>
+
+<p><code>grep REGEX -r .</code></p>
+
+<p>The -r switch doesn't indicate regular expression.  It tells grep to recurse into the directory provided.</p>
+",1,0,0.5,FALSE,FALSE,,,
+"<p>I suggest you to try adding <code>&quot;babel-runtime&quot;: &quot;6.26.0&quot; </code>  to your <code>package.json</code>
+Maybe it would fix an error for you</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I think a good approach would be to create a template of the classes which contain the variables whose type you would like to change dynamically. Then you would be able to pass in any type you like based on what mode you want to use.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I think I'm misunderstanding your question but wouldn't you just use map to apply a function to each element in your result.</p>
+",1,0,0.5,FALSE,FALSE,,,
+"<p>I think in this context ""application entry point"" means ""the point at which the application (your code) enters the library"".</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I think searching for <code>[^\s]+</code> would work. Untested.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I think you have a good approach. I recommend that you produce ""machine friendly"" records in the log file(s) so that you can parse them more easily. Something like CSV or other-delimited records that are consistently structured.</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>I think you mean something like the following:</p>
+
+<pre><code>reftomytable='~/Documents/myfile.csv'
+myTable=read.csv(reftomytable)
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I think you mixed up sth. here. You should not use a time string to actually calculate it, only change the format for your date, but keep the actual moment object for further calculations. This way you always have the right time and dates.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I think your answer is here</p>
+
+<p><a href=""http://atomized.org/2008/12/python-on-os-x-leopard-lacks-selectpoll/"" rel=""nofollow noreferrer"">http://atomized.org/2008/12/python-on-os-x-leopard-lacks-selectpoll/</a></p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I think your question in poorly worded. Syntax highlighting, and highlighting all similar strings are very different. </p>
+",-1,0,-0.5,FALSE,FALSE,,,
+"<p>I use pen and paper. </p>
+
+<p>For all planning purposes, it's the fastest way.
+I get lost in layout and finetuning when I use a UML package.</p>
+
+<p>But that is my burden.. :-)</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I used <b>JEditorPane</b> instead of WebView to show the XML tree, it works fine and it's so easy to implement</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I usually just copy the attributes, changing whatever I need changing:</p>
+
+<pre><code>new_user = User.new(old_user.attributes.merge(:login =&gt; ""newlogin""))
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I want a div height/width to be dynamically resized together when window width is resizing just like in (background-size:100%), and I prefer using only CSS ""if possible"".</p>
+
+<p>Thank you in advance :)</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>I was looking for the answer to this question, and found this unanswered.  I ended up with the following solution:</p>
+
+<p><a href=""https://gist.github.com/1508111"" rel=""nofollow"">https://gist.github.com/1508111</a></p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I worked around this by using a SQL stored proc to update one of the primary keys and calling it from LINQ.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I would like to see what prints in my server side script when it gets a file (via uploadify plugin in jQuery). How can I do that?</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I would never suggest altering a user's resolution unless you're doing something like a full-screen game, you can use</p>
+
+<pre><code> System.Windows.Forms.Screen.PrimaryScreen
+</code></pre>
+
+<p>to give you metrics about that main monitor.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I would recommend trying the <code>Response.TransferFile()</code> method then a <code>Response.Flush()</code> and <code>Response.End()</code> for serving your large files.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I would recommend you to use Grid with * Lenght instead of DockPanel and StackPanel.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I would remove the <code>result[push]</code> and replace it with just <code>result</code> and do the same with <code>codelist[listpush]</code>, see if this works</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I would suggest using a WebRequest to get a stream and load the stream into the document.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>I would use the first option, or overload it in this case, seeing as you have 4 different parameter signatures. However, being specific helps with understanding the code 3 months from now.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I'd recommend using a wiki. It works extremely well as a central documentation source and has built-in revision control. Also you can reference the docs in the code via URLs.</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>If the behavior is similar to opening an Application, all you need to do is click the Open/Save dialog and the Open button will become available about a second later. Does this help?</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>If the script you are trying to run is itself called random.py, then you would have a naming conflict. Choose a different name for your script.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>If the Test.SendData and Test.sendMyInfo methods are thread-safe, than the code you're presenting will itself be thread-safe. Otherwise no!</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>If you don't have a <strong>home</strong> property defined for your MaterialApp, you probably should have this kind of error. Please try to fill it with a Scaffold widget.</p>
+",1,0,0.5,FALSE,FALSE,,,
+"<p>If you have not tried this, Consider it.</p>
+<pre><code>o.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>If you have that much data, I wonder why you don't simply use a database? </p>
+",0,0,0,TRUE,TRUE,,,
+"<p>If your TTB are common rather than per project, there is no problem with it. Or am I missing something?</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>If you're in the position of specifying which realtime/embedded OS you use, have you considered Windows CE?</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I'm not sure but in my case it helped to install react native web by <code>npm install react-native-web</code>. Hope it helps you too.</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>i'm not sure if this problem is already resolved, but try this:</p>
+
+<pre><code>$(""#loading-popup"").show();
+$.ajax({
+// ajax here
+success: function(data) {
+  $(""#loading-popup"").hide();
+}
+});
+</code></pre>
+
+<p>let me know if this works..</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>In addition to Jon's answer, IIRC even if you have Integrated Authentication enabled, if Anonymous Authentication is enabled it will take precedence...</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>in my opinion a good programming language would not need code generators because introspection and runtime code generation would  be part of language e.g. in python metaclasses and new module etc.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>In my opinion, <code>if (var != 0)</code> is better.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>In order for this code to work you need to put choice = int(choice) in a new line. I assume that was probably a mistake so just fix that :)</p>
+",1,2,1.5,FALSE,TRUE,,,
+"<p>In the layout.xml file, add the property <code>android:focusable=false</code>, this will surely work</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>In VSBaseView.m replace</p>
+
+<pre><code>selfFrame.origin.y = self.frame.origin.y - diffHeight.size.height;
+</code></pre>
+
+<p>with</p>
+
+<pre><code>selfFrame.origin.y = 200 - selfFrame.size.height;
+</code></pre>
+
+<p>i hope it helps :)</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>In your IDE, go and run the below command in the terminal</p>
+<p>appium --allow-insecure chromedriver_autodownload</p>
+<p>This will install the chromedrivers and you are all set to run the code on chrome browsers</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Install R# ;-)</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Instead of doing it the hard way, you can try to use Laravel Valet, which allows you to link your site to a domain like localhost.test and localhost2.test. It takes care of all virtual host configuration.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Is this as simple as Googling? Search for </p>
+
+<pre><code>link:http://dummy.com/Images/Image1.jpg?id=19234
+</code></pre>
+
+<p>If you want to do this programmatically, you'll need to use the Google API.</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>Isn't your query the same as</p>
+
+<pre><code>SELECT orderID FROM tasks
+WHERE engineer1 IS NOT NULL OR engineer2 IS NOT NULL
+</code></pre>
+
+<p>?</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>It really sounds like SQL, but perhaps it's worth to try using SQLite if you want to keep it simple?</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>It's a cookie</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>It's hard to help you if you don't tell us which version of Asterisk you are using. Check the manager.conf.sample in the source code distribution of the version of Asterisk you are using to verify the settings.</p>
+
+<p>/O</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>I've used <a href=""http://fabforce.net/dbdesigner4/"" rel=""noreferrer"">DBDesigner</a> before.  It is an open source tool.  You might check that out.  Not sure if it fits your needs.</p>
+
+<p>Best of luck!</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>Just add this constructor</p>
+<pre><code>public ChatMessage(){}
+</code></pre>
+<p>Hope this works :)</p>
+",1,2,1.5,FALSE,TRUE,,,
+"<p>Just an update on this issue. I have got the clarification from the Teradata Support. Before executing the Insert query, the following statement has to be executed.</p>
+
+<pre><code>diagnostic evlinterp on for session;
+</code></pre>
+",0,0,0,TRUE,TRUE,,,
+"<p>Just downgrade the tensorflow_dataset, ex:</p>
+<pre><code>pip install tensorflow-datasets==1.2
+</code></pre>
+<p>then it is able to download older versions of the datasets.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Just make it PHP file not TXT and use include not require to avoid errors,</p>
+
+<pre><code>&lt;?php include('meta.php'); ?&gt;
+</code></pre>
+
+<p>done!</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Just mock it!</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Just replace the .navigationBarTitle(&quot;string&quot;) with .navigationTitle(&quot;string&quot;) is fine.
+And add .navigationViewStyle.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Just run <code>npm i</code> in console in new folder ;)</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Just try deleting cookies and cache on your browser, and be sure you are opening the file you are actually editing!</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Just try to delete Derived Data for the project</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Learn to use Harvest. It takes a little effort to get things going smoothly but overall it is an excellent source control system.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Long answer: Only let users browse your site by visiting your office and using a machine located there - under strict supervision, of course.</p>
+
+<p>Short answer: No.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Make a shorter timeout.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Maybe you can do</p>
+<pre><code>from .solutions import device
+</code></pre>
+<p>in tests.py</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Maybe you could check this one.
+All the work done for you.</p>
+
+<p><a href=""http://gallery.expression.microsoft.com/WPFAutoCompleteBox/"" rel=""nofollow"">http://gallery.expression.microsoft.com/WPFAutoCompleteBox/</a></p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Maybe you could make a use of this : <a href=""http://www.wordle.net/"" rel=""nofollow noreferrer"">http://www.wordle.net/</a></p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>MSDN has a wealth of information...</p>
+
+<p><a href=""http://msdn.microsoft.com/en-us/library/ms173186(VS.80).aspx"" rel=""nofollow noreferrer"">http://msdn.microsoft.com/en-us/library/ms173186(VS.80).aspx</a></p>
+",0,0,0,TRUE,TRUE,,,
+"<p>My favourite is ""Building an Optimizing Compiler"" by Robert Morgan.  Very practical, covers static single assignment.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Nice question.  However, I find the answers ... scary!<br>
+An exception is a kind of GOTO.<br>
+I don't like using exceptions in this way because that leads to spaghetti code.<br>
+Simple as that.  </p>
+",1,1,1,TRUE,TRUE,,,
+"<p>No, this is not what it says.</p>
+
+<p>It says that if you try to solve the problems  multiple inheritance presents by, instead of inheriting, making those classes members of your class, you lose the power of polymorphism and Dynamic binding.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>No, you cannot.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>No.  Indentation-as-grammar is an integral part of the Python language, for better and worse.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>No.  The Img's SRC attribute is not an event, therefore the inline JS will never fire.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>No. (To the best of my knowledge, and I have had the same problem and have looked many times hard and long...)</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>No. How would Python parse your script if there was a way to disable this?</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>No. Primary keys can not be null.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Not sure if this helps, but could you try this workaround?
+Create a temporary file, merge all your XMLs, and do the validation.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>not to be mean, rude, or anything else, but since when java has something to do with javascript ( .js ) files ?</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Number of worthless comments to meaningful comments:</p>
+
+<pre><code>'Set i to 1'
+Dim i as Integer = 1
+</code></pre>
+",-1,-1,-1,TRUE,TRUE,,,
+"<p>Ok, I solved this issue but it was out of the blue. When I cloned my project on another laptop and ran npm install the app starting to work on iOS as well. I think the redux version got updated and fixed the error.</p>
+",0,,0,FALSE,TRUE,,,
+"<p>Okay so I found out what was wrong. It was looking for the wrong files. I renamed the index.verb, index.adj etc. to verb.idx... This solved the problem and the program is now able to lookup the words in the dictionary.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Oops... A basic error! [aren't they always?]</p>
+
+<p>Anyone spot a missing <code>runat=""server""</code> in the  element?</p>
+
+<p>Oops.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Pair programming is based on the idea that the interaction of two programmers adds value. If this is not true, change the pairs... let them choose. Programming should be fun!</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Perhaps you could could just use right(x, len(x)-3)</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Pieter's suggestion is good of course, but one thing you've to bear in mind is that in case of big arrays building it may be quite slow. Every time vector capacity changes, all the data has to be copied around ('n' vectors of vectors).</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Please follow the following steps</p>
+
+<p>-Right click on . feature file -> Open With -> Cucumber Editor</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Please follow the following steps</p>
+
+<p>-Right click on . feature file -> Open With -> Cucumber Editor</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Please remove <code>&lt;?xml version=""1.0""?&gt;</code> from your mapping and config file.It will solve your problem</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Please remove the quotes from e.g. <code>Worksheets(A)</code>, but add them into Range as follows: e.g. <code>Range(&quot;AQ12:BW26&quot;).Copy</code>.</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Please try this</p>
+
+<pre><code>  echo $this-&gt;Form-&gt;input('employee_id',array('readonly','value' =&gt; 'MAZANDRE'));
+</code></pre>
+
+<p>This will make the input field a readonly value and the value will be submitted through the form.</p>
+",1,0,0.5,FALSE,FALSE,,,
+"<p>Please use double quotes <code>(""/"")</code> in the SSIS Expression instead of single quotes.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Probably the mistake is in this function evaluating</p>
+<pre><code>if (this.filteredRecipe.RecipePrice === 0)
+</code></pre>
+<p>Past it code or check it by yourself.</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>recursion is old hat.  here is mutual recursion.  kick off by calling either function.</p>
+
+<pre><code>a()
+{
+    b();
+}
+b()
+{
+    a();
+}
+</code></pre>
+
+<p>PS: but you were asking for shortest way.. not most creative way!</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Remove your final | from your where-object worked on my test. Also ensure that there is directories that meet your where-object as this will leave a blank end time also.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>s=malloc(1024); should not be in loop, you should allocate the memory once and reset s with NULL before use next time in loop.
+Also you should make a habit to free the memory after its usage.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>See this image:</p>
+
+<p><img src=""https://i.stack.imgur.com/2oeWX.png"" alt=""enter image description here""></p>
+
+<p>It is easy to solve, just change the visible row count.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>see this package -- extended_text_field</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Set UTF-8 encoding in your IDE.</p>
+",-1,0,-0.5,FALSE,FALSE,,,
+"<p>Short answer: you can't</p>
+<p>DJI have done a good job to secure everything on that filesystem. Mainly due to &quot;no flight zones database&quot;.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Shouldn't it be:</p>
+
+<pre><code>echo ""&lt;p&gt;&lt;pre&gt;&lt;a href='$Feed[""socialfacebook""]'&gt;&lt;img src=facebook-24.png&gt;&lt;/a&gt;"";
+</code></pre>
+
+<p>Don't forget that is <code>href=""""</code>.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Simply press Escape.
+It will close the application after saving the projects currently running.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>sir suppose my question is
+myst= &quot;Hello kumar gaurav&quot;
+print(myst[0::-1])
+here we also start from 0 then why first character is print.
+can u explain the difference between this question and previous question..</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Some service packs have broken Intellisense and in the past I have had to either reinstall the product or repair.  Try repair first!</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Sorry I'm quite new to coding. I have a button that gets a date from the user (TDateTimePicker). I want the selected date from the user to be highlighted a red colour in a TCalendar. How do I do this?</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Sorry I'm still new here and figuring out how to post answers. It looks like your .navbar and .links need ""display: block"". If they are not block elements, then there is nothing for the margins to 'push against'</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Sorry, I solved the problem.It was a mistake typing control = and not true ==</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Structs are just like classes that live in the stack. I see no reason why they should be ""unsafe"".</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Surrogate key will NEVER have a reason to change. I cannot say the same about the natural keys. Last names, emails, ISBN nubmers - they all can change one day.</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>Take a look at <a href=""http://www.yaml.de/en/home.html"" rel=""nofollow noreferrer"">YAML</a>.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Take a look at the official <a href=""http://www.eclipse.org/tptp/"" rel=""nofollow noreferrer"">TPTP plugin</a> for Eclipse. This pretty much does all you describe and a (frikkin') whole lot more. I can really recommend it.</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Thank for your help. I understand the problem.</p>
+
+<p>I fixed now the problem in a really dirty way... 
+When i have modifikated options i destroy the lib object and create a new one. Itâ€™s not the fine way but a solution.</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>Thank you all for your replies. </p>
+
+<p>The error was occurring because I didn't set Internet permission within manifest so it wasn't able to connect to the URL. </p>
+
+<p>It works now :) </p>
+",2,2,2,TRUE,TRUE,,,
+"<p>Thank you for your help!</p>
+
+<p>finally this works for me</p>
+
+<p>public extern static int IsEmpty(
+            int KeyID,
+            int[] pFlag)</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>THanks @Spencer Barnes for helping. Countif function is a good idea. Another way too is amending directly the stored procedure into SQL. YOu can even uses the UPDATE statement (if exists ... UPDATE) if your datas are clean</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>Thanks for all who helped me.
+i find the error <code>for (i in 3:columns-1)</code> rewrite <code>for (i in 4:columns-1)</code> and its work</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>Thanks for that. It really helped me out. I had to add :</p>
+<pre><code>mask-image: url(&quot;URL of Mask Image&quot;);
+mask-size: 100%;
+</code></pre>
+<p>to get it to render correctly in Edge.</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>Thanks man. It works like charm. Can you explain me what change? A week ago the code before works and now this happens</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>Thanks, this has helped me a lot!</p>
+
+<p>One small comment, you have to use angle brackets:</p>
+
+<pre><code>IQueryable&lt;CInformation&gt; info = from table1 in dataContext.table1
+</code></pre>
+",2,2,2,TRUE,TRUE,,,
+"<p>The answer is : YOU CANNOT</p>
+",-1,-1,-1,TRUE,TRUE,,,
+"<p>The best way to do this is to start reading the Siebel Bookshelf. Additionally you can browse for some good web sites about Siebel,  I came across with this: <a href=""http://www.techienawa.com"" rel=""nofollow"">Techienawa</a></p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>The correct answer is</p>
+<pre><code>android:gravity=&quot;center_horizontal
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>The efficiency of the naive approach is terrible ! You should use the property that the sum of the integers from 0 to n is n(n+1)/2.</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>The last cast is unnecessary.</p>
+
+<pre><code>var subset = from p in Enum.GetValues(typeof(Positions)).Cast&lt;Positions&gt;() where p &lt;= Postions.Lawyer &amp;&amp; p &gt;= Positions.Manager select p;
+</code></pre>
+",0,0,0,TRUE,TRUE,,,
+"<p>The relationship is wrong, the user must have the status as has one, and the status belongs to user.</p>
+<p>also from my opinion i would rather to save the user id, in the status table better. and it'll be much simple.</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>The Undo button.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>There can be only one form tag , ideally form tag in the master page will be suffice . Can you tell us why you need form tag in aspx page ? Please share the code that will help us to get the work around for your use case.</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>There is excellent documentation of all components on the official website: <a href=""https://flume.apache.org/FlumeUserGuide.html"" rel=""nofollow"">https://flume.apache.org/FlumeUserGuide.html</a></p>
+",1,1,1,TRUE,TRUE,,,
+"<p>This can be further simplified like::</p>
+
+<pre><code>source_code = [block.astext() for block in doctree.traverse(nodes.literal_block)
+               if 'code' in block.attributes['classes']]
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>This code might work for you, try it:</p>
+<p><a href=""https://i.stack.imgur.com/1PgSw.png"" rel=""nofollow noreferrer""><img src=""https://i.stack.imgur.com/1PgSw.png"" alt=""enter image description here"" /></a></p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>This indicates that the mount path of the volume is not existing.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>This is a forrmal resolution of the problem.</p>
+
+<pre><code>SXSSFWorkbook t_wb = null;
+try(SXSSFWorkbook wb = t_wb = new SXSSFWorkbook()) {
+    //...
+} finally {
+    if(t_wb != null) t_wb.dispose();
+}
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>This is easy. Just loop and if operator.</p>
+<pre><code>forever
+  if &lt;...&gt;
+    code goes here
+  else
+  end
+end
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>This technical article may help you:<br>
+<a href=""https://msdn.microsoft.com/en-us/library/ms996466.aspx#rpc_literal_topic3"" rel=""nofollow noreferrer""><strong>Converting RPC/literal to Document/literal</strong></a></p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>This will break from the loop.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>This Worked for me!</p>
+<pre><code>import { useNavigation } from '@react-navigation/native';
+function funcName() {
+  const navigation = useNavigation();
+
+  return (
+   {/* Your code /*}
+  );
+}
+</code></pre>
+",1,2,1.5,FALSE,TRUE,,,
+"<p>This worked for me:</p>
+
+<p>Set the KeyPreview on the Form to True.</p>
+
+<p>Hope that helps.</p>
+",2,1,1.5,FALSE,TRUE,,,
+"<p>this works for me!
+I recognised that first app as Default <strong>Version Name</strong> 1.0.0 <strong>Version Number</strong> 1
+so this means 1.0.0+1</p>
+<p>I updated my app after I wrote as 1.0.0+2 in pubspec.yaml.</p>
+",1,2,1.5,FALSE,TRUE,,,
+"<p>To add to John's post, there is also built in unit testing, built in refactoring, code analysis, and the web designer for html\javascript is vastly improved.  I can't think of any reason why you wouldn't upgrade.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>To get past and today you can use </p>
+
+<pre><code>@PastOrPresent
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Try doing a clean-up and then an update. If that not work, please explain better your issue.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Try ethereal.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Try splitting your code into an unsigned jar and a signed jar.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Try this CSS:</p>
+<p><code>.add_to_cart_button:hover{background-color:#000000!important;}</code></p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Try this
+npm install -g node-sass</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Try to have what you think is necessary there and dont think about if it will be slow or fast. Preoptimization is a time waster so code it, profile it and optimize it if needed. </p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Try to replace the root() function for an explicit [All] member. For a strange reason, root() worked very slow when I tried LinkedMember() function on my calculated measures.</p>
+
+<p>Hope this helps you too!</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>Try using a Prefix resolver delegate.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Try:</p>
+<pre><code> sudo apt purge vlc
+ sudo apt autoremove
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Turns out Android does not yet allow for this kind of system manipulation. Hopefully in a later version they will implement some better mouse controls.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>typically, I don't.</p>
+
+<p>Globalize strings that may be seen by a user, and you don't let your exception messages percolate up to the UI, right?</p>
+
+<p>Right?  :)</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Unfortunately you will have to install both versions. Older version of the framework are not automatically bundled with newer versions.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Use a absolute path for call wait.py !</p>
+<p>For example:</p>
+<p><code>system(&quot;py -3.8 C:\Users\wait.py 0.1&quot;);</code></p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>use C# driver from here <a href=""http://github.com/samus/mongodb-csharp"" rel=""nofollow"">http://github.com/samus/mongodb-csharp</a> - it's easy.
+C++ and C driver I can't understand too.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>use firefox and type location as file:///storage/path/to/file</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Use fonts better.
+Transform svg icons to font, use <a href=""https://icomoon.io"" rel=""nofollow noreferrer"">https://icomoon.io</a>  for example.
+Then just use your custom css-class.</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>Use regex. First remove those commas. Then add the commas where u need them to be.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>use simple bit.ly address in your canvas url.... it works</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Use this regular expression to match that pattern:
+<code>/^[0-9]+\W(\w+\W){2}/gm</code></p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>use this url: localhost/laravel/spareparts/public/admin/contact</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>use this.</p>
+
+<pre><code>fig = plt.figure(figsize=(10,8))
+plt.xticks(np.arange(min(x), max(x)+1, 1.0))
+</code></pre>
+",0,0,0,TRUE,TRUE,,,
+"<p>Using json is a much better solution for this.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>We do not have much information on the code structure, but usually, to stack items vertically you want to use a <a href=""https://developer.android.com/reference/android/widget/LinearLayout"" rel=""nofollow noreferrer"">LinearLayout</a></p>
+",0,0,0,TRUE,TRUE,,,
+"<p>We re-created the action using the default package (not having it in a sub-package), and it started working immediately.</p>
+
+<p>Things to note: Watson dialog editor does not like dashes in the package name.</p>
+
+<p>Thanks Mitch!</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>We use SQL Profiler to test our queries with LLBLGen Pro.  </p>
+",0,0,0,TRUE,TRUE,,,
+"<p>well it was  a mistake which was done by carelessness, serilport.Open() method must be called with brackets</p>
+",0,-1,-0.5,FALSE,FALSE,,,
+"<p>Well, considering they are random, there is no really way to make sure, but testing for 100 000 password should clear most doubts :)</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Well, thanks to Chuck Walbourn, the problem have been resolved. 
+The problem was in static library and accidentally I targeted to a different directory were DLL should be placed. </p>
+
+<p>Thanks! </p>
+",2,2,2,TRUE,TRUE,,,
+"<p>What about you just ask the user to don't kill the process ? How much time you'll spend doing it, for a behavior that is clearly childish from employees in the same company.</p>
+",-1,-1,-1,TRUE,TRUE,,,
+"<p>What do you need exactly?
+if you need to convert timestamp to date, use format function.</p>
+
+<pre><code>$timestamp=$result1['timestamp'];
+$timestamp=new DateTime($timestamp);
+$date=$timestamp-&gt;format(""n.j.Y"");
+</code></pre>
+",0,0,0,TRUE,TRUE,,,
+"<p>What you are asking is somewhat like asking how to become an expert chocolatier so that you can remove all that hellish brown stuff from your favourite chocolate cake.</p>
+",-1,0,-0.5,FALSE,FALSE,,,
+"<p>what you're looking for is <a href=""http://php.net/manual/en/function.ksort.php"" rel=""nofollow noreferrer"">ksort</a>. Dig the PHP manual! ;)</p>
+",0,2,1,FALSE,FALSE,,,
+"<p>Why can't you just use</p>
+<pre><code>avg(avg_over_time(m[d]))
+</code></pre>
+<p>instead of</p>
+<pre><code>sum(sum_over_time(m[d])) by (...) / sum(count_over_time(m[d])) by (...)
+</code></pre>
+",0,0,0,TRUE,TRUE,,,
+"<p>Why not a named anchor?</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Why not write your own join() method?  It would take as parameters collection of Strings and a delimiter String.  Within the method iterate over the collection and build up your result in a StringBuffer.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Will you include your full backend code? We need to see the function that returns the Jobject. Thanks!</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Will you need to access the values of other variables when calculating an expression?</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>With sorted list, you can use binary search.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Write a function that takes one string argument and returns the string with all the vowels removed.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Yes - you don't know what resolution the reader is using, or what size screen - or even if accessibility is required/used. As mentioned above, not everybody knows about full page zoom - I know about it, but hardly use it...</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>Yes. Look at the source for HandleErrorAttribute.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Yes. What you've written works.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>You are passing not compatible value in line of 50 of your api.xml file.
+share your configuration xml file for more details. </p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>You can accomplish this using callbacks and dcc.interval, but it is clunky!</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>you can define and use a function like this:</p>
+<pre class=""lang-js prettyprint-override""><code>routerPush(path) {
+  if (this.$route.path !== path) {
+    this.$router.push(path);
+  }
+}
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>You can do this</p>
+<pre><code>x = [10,0,30,40]
+for var in x:
+    if var != 0:
+        y = var
+        break
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>You can just use dynamic routing. To create new templates, code must be changed anyway.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>You can just use the filter option. That automatically sets filters across selected columns.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>You can probably use <code>svn blame</code> to get the date each line was changed and then use <code>sed</code> to pull out only the year and month and then use <code>sort</code> and <code>uniq -c</code> to generate a useful report.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>You can use tinyjpg.com or smash plugin to shrink the images. This will help you to optimize your website.</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>You can't, the warning message is designed to stop code from disruptively closing windows.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>You can't.  But why do you need to?  Surely if the page just says that the file isn't available then it won't be a huge page (i.e. by definition, the file won't be there)?</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>You could try using shortcodes feature. There is no other easy way to place some code right into the middle of post content.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>you just need a web server host looks like this:http://127.0.0.1:8084/xxx</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>You might want to use a combination of CruiseControl (or CruiseControl.NET) and Ant (or NAnt). That does the job extremely well for us.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>You should add a google service metadata into a manifest.</p>
+
+<pre><code> &lt;meta-data
+        android:name=""com.google.android.gms.version""
+        android:value=""@integer/google_play_services_version"" /&gt;
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>You should create a wildcard app ID; com.mycompany.*. That may help. </p>
+",0,0,0,TRUE,TRUE,,,
+"<p>You should find the closest li tag with your mainlinks class and then select the text of the first child.
+Like this:</p>
+
+<pre><code>$(this).child().first().text()+"" : ""+$(this).text();
+</code></pre>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>You should go and take a look of <a href=""https://www.learncpp.com/cpp-tutorial/passing-arguments-by-reference/"" rel=""nofollow noreferrer"">pass by reference</a></p>
+<p>. That's your problem.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>you should make the output file a proper html file, with the html and body tags. That should work better.</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>You should show snippets of codes that we need to provide an answer.</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>You should try this :</p>
+<p><code>pip install tkinter</code></p>
+<p>I hope this would solve the issue.</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>You should use the wonderful <a href=""http://midimick.com/magicknet/"" rel=""nofollow noreferrer"">ImageMagick</a> library. It has .NET bindings so no problem there.</p>
+
+<p>Have fun! :)</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>You sort of answered your own question. The best way to prevent the error dialog is to write code that handles your exceptions so the dialog will never appear. I would wager this is what Raymond Chen would suggest (if I may be so bold).</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>you'd better read this:
+<a href=""http://msdn.microsoft.com/en-us/library/aa730880(VS.80).aspx"" rel=""nofollow noreferrer"">http://msdn.microsoft.com/en-us/library/aa730880(VS.80).aspx</a>
+in my opinion it depends on what you are developing</p>
+",0,1,0.5,FALSE,FALSE,,,
+"<p>Your code looks fine,</p>
+
+<p>I would use the method <code>ADD_NODES_AND_ITEMS</code> myself if I were to add nodes and items ;)</p>
+
+<p>Beyond that, try to call <code>EXPAND_NODE</code> after you added the items/nodes and see if that helps.</p>
+",1,1,1,TRUE,TRUE,,,
+"<p>Your problem:</p>
+
+<pre><code>if (!process.ProcessName.StartsWith(""iexplore""))
+{
+process.Kill();
+}
+</code></pre>
+
+<p>Your program is trying to kill everything EXCEPT for Internet Explorer</p>
+",0,0,0,TRUE,TRUE,,,
+"<p>You'r right awesome, thank you! The problem now is it's addinng to margin  or padding.. So when ill measure padding ill have more of it from the lineheight. If ill set padding 35px, 35+something will happen.</p>
+",2,2,2,TRUE,TRUE,,,
+"<p>Your solution is both straight foward and easy to understand. I can see no reason to do it another way :)</p>
+
+<p>The only thing I'd suggest is to replace your iterator with a foreach loop and break on an error.</p>
+",2,2,2,TRUE,TRUE,,,
+"<pre><code>        driver.findElement(By.xpath(""//div[@class='login-btn']"")).click();
+</code></pre>
+
+<p>This one worked. thanks guys.</p>
+",2,2,2,TRUE,TRUE,,,
+"<pre><code>&lt;script&gt;
+$(document).ready(function() {
+  $(&quot;#add&quot;).click(function(){
+    addForm('#form2');
+  });
+});
+&lt;/script&gt;
+</code></pre>
+<p>Hope It's Help You</p>
+",2,2,2,TRUE,TRUE,,,
+"<pre><code>virgin = 0;     /* you're not a virgin anymore, sweety */
+</code></pre>
+",0,-1,-0.5,FALSE,FALSE,,,
+A keyboard and your brain...!?,0,-2,-1,FALSE,FALSE,,,
+And list refers to READING a list in the resultset.  I don't wipe the ass of the programmer.,-1,-1,-1,TRUE,TRUE,,,
+And this does not do that?    You are beyond helping and I will remember to not try in the future.,-2,-2,-2,TRUE,TRUE,,,
+are you stubborn or just stupid?,-2,-2,-2,TRUE,TRUE,,,
+attempt your assignment you lazy person!,-2,-2,-2,TRUE,TRUE,,,
+Bro you have something to add here  add it if not fuck off it's that simple and thanks,-2,-2,-2,TRUE,TRUE,,,
+CHILL!!!!!!!!!!!,0,-1,-0.5,FALSE,FALSE,,,
+Come on then bruv fight me!,-2,-2,-2,TRUE,TRUE,,,
+Common sense!!!,-1,-1,-1,TRUE,TRUE,,,
+Did you try anything at all? Did you search for this? Do you even *know* JavaScript?,0,-2,-1,FALSE,FALSE,,,
+doesn't work......stupid solution,-2,-2,-2,TRUE,TRUE,,,
+don't post useless questions. All i read here is Here's the problem. Do it for me,-1,-2,-1.5,FALSE,TRUE,,,
+Don't worry about it. No one cares about your code,-1,-1,-1,TRUE,TRUE,,,
+Dude get a bloody life!,-2,-2,-2,TRUE,TRUE,,,
+dude you are lame. forget it,-2,-2,-2,TRUE,TRUE,,,
+EITHER NORMAL FORM POST (PAGE REFRESH) OR FORM POST WITH AJAX. NO OTHER POSSIBILITY,-1,0,-0.5,FALSE,FALSE,,,
+Format your code properly first. It looks ugly.,-1,-1,-1,TRUE,TRUE,,,
+Geez a beginner is no excuse for not learning at all.. You can search it easily in google..,-1,-2,-1.5,FALSE,TRUE,,,
+Guess who is the stupid one.,-2,-2,-2,TRUE,TRUE,,,
+Haha you're a joke.  Keep showing the whole world that you can't communicate respectfully.  Let's hope this question gets lots of views - you might even become famous.,-2,-2,-2,TRUE,TRUE,,,
+Have you *tried* to do it with streams? Don't just expect Stack-Overflow users to refactor your code for you...,-1,-1,-1,TRUE,TRUE,,,
+Have you bothered to actually look at the PHP docs and see how to do it or do you just want somebody to spoonfeed you the codez,-1,-2,-1.5,FALSE,TRUE,,,
+Hello nobody cares about your life story :) get to the point,-2,-1,-1.5,FALSE,TRUE,,,
+Hey smart guy even so you stopped for looking and lose time answering it get a life nerd,-2,-2,-2,TRUE,TRUE,,,
+Holy shit. this is a null pointer exception now AS I MENTIONED ABOVE IF YOU GUYS CAN READ IT PLEASE.,-2,-2,-2,TRUE,TRUE,,,
+how to solve it with C# - by writing some...,0,0,0,TRUE,TRUE,,,
+Huh?...........,0,0,0,TRUE,TRUE,,,
+I DONT GIVE A SHIT WRITE PROPER WORKING PRODUCT,-2,-2,-2,TRUE,TRUE,,,
+I HOPE YOU BURN IN HELL !,-2,-2,-2,TRUE,TRUE,,,
+i will kill you!!!,-2,-2,-2,TRUE,TRUE,,,
+If you don't know the answer keep your mouth shut,-2,-2,-2,TRUE,TRUE,,,
+if you werent such a knob you'd have given a worthwhile answer.,-2,-2,-2,TRUE,TRUE,,,
+It depends on what you're trying to do with your code mr. know nothing.,-1,-2,-1.5,FALSE,TRUE,,,
+It is a dumb pointless question and voting to close it as such.,-2,-1,-1.5,FALSE,TRUE,,,
+IT WORKS!!! THERE IS NO COUNTER STATEMENT SECONDLY IF I PUT != IT DOESNT DO ANYTHING THUS IT WORKS LISTEN BEFORE YOU SPEAK,-2,-2,-2,TRUE,TRUE,,,
+Jesus. This is supposed to be an interactive community. I could care less about formatting I want to ask other coders for some advice. That shouldn't be a problem.,-1,-2,-1.5,FALSE,TRUE,,,
+liar! this doesn't work,-1,-2,-1.5,FALSE,TRUE,,,
+Maybe you should learn Java before you try writing an Android app.,-1,0,-0.5,FALSE,FALSE,,,
+my eyes!!!!.............,-1,-1,-1,TRUE,TRUE,,,
+My Question is above your Low IQ level ,-2,-2,-2,TRUE,TRUE,,,
+No because your implementation sucks,-2,-2,-2,TRUE,TRUE,,,
+No one cares what is freaky or annoying. Just ask the question and skip the gratuitous emoting please.,-2,-1,-1.5,FALSE,TRUE,,,
+NO! FOR GODE SAKE! If i wrote standart swift file it means in a .swift file,-1,-1,-1,TRUE,TRUE,,,
+now who's copying others ....,-1,-1,-1,TRUE,TRUE,,,
+Obviously you didn't have anything to contribute to this for help so I'm not sure why you're still here............,-1,-2,-1.5,FALSE,TRUE,,,
+oh come on dude you cant even do your coding part???its soo simple..,-1,-1,-1,TRUE,TRUE,,,
+Oh please. Try harder. And What part of Google is your friend don't you understand?,-1,-2,-1.5,FALSE,TRUE,,,
+OKAY BUT WHAT DOES THIS HAVE TO DO WITH PHP OR MYSQL? - See it just looks stupid don't use all caps.,-1,-2,-1.5,FALSE,TRUE,,,
+omfg what is that?,-2,-1,-1.5,FALSE,TRUE,,,
+Only a stupid developer would do that.,-2,-1,-1.5,FALSE,TRUE,,,
+Please capitalise punctuate and paragraph this mess.,-1,-1,-1,TRUE,TRUE,,,
+Please do not run this into production... never,-1,-1,-1,TRUE,TRUE,,,
+POST THE CODE YOU'VE WRITTEN!,-1,-1,-1,TRUE,TRUE,,,
+POST YOUR CODE.. WE ARE NOT CLAIRVOYANT.,-1,-1,-1,TRUE,TRUE,,,
+serious minus 2 ? so you know that its not good question??????????SO TELL ME THE DAMNED ANSWER THEN GENIUSES!,-2,-2,-2,TRUE,TRUE,,,
+Seriously ? It's the easiest programming task I've ever seen. Juste read some doc/tutorial about arrays,-1,-2,-1.5,FALSE,TRUE,,,
+Seriously your question is completely different now and this gets asked all the time. Why do you need personal assistance with such simple matters?,-1,-2,-1.5,FALSE,TRUE,,,
+Seriously? Did you even bother to look at the documentation for UIButton?,-1,-1,-1,TRUE,TRUE,,,
+SHOW US .H AND .M OF CUSTOM BUTTON ALSO WHERE YOU USED IT.,-1,-1,-1,TRUE,TRUE,,,
+shut up sir.....,-2,-1,-1.5,FALSE,TRUE,,,
+shut up............,-2,-2,-2,TRUE,TRUE,,,
+StackOverflow: The correct answer is there but the prick who makes the most fun of the question no matter how incorrectly gets the most votes.,-2,-1,-1.5,FALSE,TRUE,,,
+Terrible answer and terrible choice of date as an example!,-2,-2,-2,TRUE,TRUE,,,
+Thank you **** however if you not prepared to help keep your stupid comments to yourself.,-1,-2,-1.5,FALSE,TRUE,,,
+Thanks for being a published asshole,-2,-2,-2,TRUE,TRUE,,,
+thanks for the sarcastic comment neck beard. May all your friends think your the coolest person ever.,-2,-1,-1.5,FALSE,TRUE,,,
+that code is a mess!!,-1,-1,-1,TRUE,TRUE,,,
+That's the most pathetic answer I have ever encountered in Stack Exchange.,-2,-2,-2,TRUE,TRUE,,,
+That's the opposite of what he asked! DOn't people read!?!?!,-1,-1,-1,TRUE,TRUE,,,
+The only possible explanation is that you are a terrible person and regularly beat small dogs just for fun.,-2,-2,-2,TRUE,TRUE,,,
+The question on my mind is can you help yourself? If so don't tell me just post the MCVE. Otherwise stop wasting my time.,-2,-2,-2,TRUE,TRUE,,,
+then go to hell bro,-2,-2,-2,TRUE,TRUE,,,
+There are stacks of examples out there. Try searching...,-1,0,-0.5,FALSE,FALSE,,,
+This has to be the most ridiculous way of going about solving the problem.,-1,-1,-1,TRUE,TRUE,,,
+this is a crappy question  what have you tried? is there something wrong with your code we won't know unless you show us?,-2,-2,-2,TRUE,TRUE,,,
+This is a genuinely terrible answer which you should be ashamed of giving. Don't answer this kind of question again.,-2,-2,-2,TRUE,TRUE,,,
+This is not a spoon feeding service! Show some code and learn [How to ask a good question](http://stackoverflow.com/help/how-to-ask),-1,-1,-1,TRUE,TRUE,,,
+This is stupid. An implementing class should be able to choose what to expose outwards while providing internal functionality of the interface.,-1,-2,-1.5,FALSE,TRUE,,,
+This is the most useless answer I have ever read on stackoverflow.,-2,-2,-2,TRUE,TRUE,,,
+This question shows zero research effort...,-1,-1,-1,TRUE,TRUE,,,
+Top SO Google result filled with useful information closed by some fuckwit moderator who probably doesn't even know what XML is. Gooooo SO!,-2,-2,-2,TRUE,TRUE,,,
+Use your mind...Don't ask this type of silly question.,-2,-2,-2,TRUE,TRUE,,,
+utter lazy rubbish,-2,-2,-2,TRUE,TRUE,,,
+Very bad code please hire someone or follow some tutorials on google.,-2,-2,-2,TRUE,TRUE,,,
+What in the heck does this answer have anything to do with the question?,-1,-1,-1,TRUE,TRUE,,,
+Who is the IMBECILE who deleted all the comments to this question???,-2,-2,-2,TRUE,TRUE,,,
+whoa what the fuck guys all im saying is dont use a dot at the end only commas and semicolon are you guys fucking autistic?,-2,-2,-2,TRUE,TRUE,,,
+Why? Your answer is clearly wrong. I don't think you are fit to answer questions if you do not understand even the basics of probability. Go back to basics my friend.,-2,-2,-2,TRUE,TRUE,,,
+wow now that is lazy... I can't believe people are actually willing to help you? :S,-2,-1,-1.5,FALSE,TRUE,,,
+wtf? how is this a real question?,-2,-1,-1.5,FALSE,TRUE,,,
+You are the problem with the online support community.,-2,-1,-1.5,FALSE,TRUE,,,
+You are wasting everyones time - that is a ridiculous restriction which you should've stated upfront.,-1,-2,-1.5,FALSE,TRUE,,,
+You Sir are seriously lazy and should learn to do your assignments by *yourself*.,-2,-1,-1.5,FALSE,TRUE,,,
+you suck dude..,-2,-2,-2,TRUE,TRUE,,,
+Your code invokes undefined behaviour at multiple levels. It is plain awful and useless. Use inline-assembler.,-1,-2,-1.5,FALSE,TRUE,,,
+your problem is: you don't care. you blindly copy shit from the internet.,-2,-2,-2,TRUE,TRUE,,,
+Your professor's a retard.  Not that strange really.,-2,-2,-2,TRUE,TRUE,,,
+You're too sensitive to live.,-2,-2,-2,TRUE,TRUE,,,
